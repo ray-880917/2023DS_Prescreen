@@ -1,0 +1,10 @@
+.DS_Store
+*.docx
+*.pptx
+*.pdf
+Prescreen/
+TA/
+.project
+/.metadata/
+*.xml
+*.xlsx
